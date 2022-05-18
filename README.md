@@ -1,15 +1,12 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
+# FMWHATSAPP & GBWHATSAPP APK .
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
+Download GB WhatsApp APK most recent rendition 2022 on your telephone. GB WhatsApp APK's new form accompanies different new highlights. You can download the most recent variant from here. It is the most well known mod form accessible today.
 
-So far we've got:
-
-- Blog w/ posts, including pagination.
-- Configurable manifest & global settings.
-- CSS Markdown (Thanks to [https://github.com/iandinwoodie/github-markdown-tailwindcss/blob/master/markdown.css]).
-- Dynamic pages.
+On the off chance that you are worn out on the regular WhatsApp. Indeed, we have the ideal WhatsApp mod for you today. In this article, we'll walk you through GBWhatsApp (GB WhatsApp). Like the first informing application. GBWA permits talking, voice, and video calls. The mod additionally allows you to share your live area, records, contacts, and media documents. We have shared GB WhatsApp download joins for you.
+<a href="https://apknike.com/gbwhatsapp-apk/">Gbwhatsapp APK</a>
+<a href="https://apknike.com/gbwhatsapp-delta-apk/">GBWhatsApp DELTA APK</a>
 - PWA ready.
 - SEO ready for posts & pages.
 - Signup form (using Netlify Forms).
